@@ -3,6 +3,7 @@
 ---
 
 ### Interactive projects are coming...
+<img src="/images/red_climate.png" alt="Climate Consciousness"/>
 <img src="/images/cr_plot.png" alt="Climate Change Plot"/>
 <img src="/images/cch.png.png" alt="Climate Challenge Issue"/>
 <img src="/images/co2_total.png" alt="Total CO2"/>
